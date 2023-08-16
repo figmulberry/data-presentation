@@ -10,8 +10,8 @@ The repository contains the analysis & visualizations derived from Tableau.
 #### Dataset
 
 The Prosper loan data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. The dataset and data-dictionary can be found on below links.
-- [Prosper Loan Dataset](https://raw.githubusercontent.com/jubins/Tableau-Projects/master/ProsperLoanData/data/prosperLoanData.csv)
-- [Prosper Loan Data - VariableDefinitions](https://github.com/jubins/Tableau-Projects/blob/master/ProsperLoanData/data/ProsperLoanData-VariableDefinitions.csv)
+- [Prosper Loan Dataset](https://github.com/figmulberry/data-presentation/blob/main/Datasets/ProsperLoanData.csv)
+- [Prosper Loan Data - Variable Definitions](https://github.com/figmulberry/data-presentation/blob/main/Datasets/VariableDefinitions.csv)
 
 
 
